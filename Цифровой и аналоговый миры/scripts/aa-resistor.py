@@ -46,7 +46,7 @@ plt.text(0.6, 1.3, f'Внутреннее сопротивление: {R_int} [�
 plt.text(0.6, 1.2, f'Ёмкость: {C} [мАч]', fontsize=12, color='blue', backgroundcolor='white')
 
 # Сохраняем график в файл (dpi определяет разрешение изображения)
-plt.savefig('GPIO/pics/aa-resistor.png', dpi=92, transparent=False)
+plt.savefig('Цифровой и аналоговый миры/pics/aa-resistor.png', dpi=92, transparent=False)
 
 # Показываем график
 plt.show()

@@ -38,7 +38,7 @@ plt.text(0.3, initial_mass * 0.75,
          fontsize=12, color='blue', backgroundcolor='white')
 
 # Сохраняем график в файл (dpi определяет разрешение изображения)
-plt.savefig('GPIO/pics/water.png', dpi=92, transparent=False)
+plt.savefig('Цифровой и аналоговый миры/pics/water.png', dpi=92, transparent=False)
 
 # Показываем график
 plt.show()

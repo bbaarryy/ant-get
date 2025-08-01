@@ -27,7 +27,7 @@ plt.grid(True)
 plt.legend()
 
 # Сохраняем график в файл (dpi определяет разрешение изображения)
-plt.savefig('GPIO/pics/analog-signal.png', dpi=92, transparent=False)
+plt.savefig('Цифровой и аналоговый миры/pics/analog-signal.png', dpi=92, transparent=False)
 
 # Показываем график
 plt.show()
