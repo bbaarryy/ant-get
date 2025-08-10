@@ -164,14 +164,17 @@
 | 6   | Ручной обжимной инструмент | 638190000 | [link](https://www.molex.com/en-us/products/part-detail/638190000) | 1     |
 | 7   | Инструмент для вставки     | 638120800 | [link](https://www.molex.com/en-us/products/part-detail/638120800) | 5     |
 | 8   | Инструмент для извлечения  | 11030043  | [link](https://www.molex.com/en-us/products/part-detail/11030043)  | 5     |
+### Микросхемы
 
-| №   | Тип                    | PN          | Ссылка                                       | Заказ |
-| --- | ---------------------- | ----------- | -------------------------------------------- | ----- |
-| 1   | Компаратор, SOT-23     | LMC7211BIM5 | [link](https://www.ti.com/product/LMC7211-N) | 200   |
-| 2   | Операционный усилитель |             |                                              |       |
-| 3   | I2C ЦАП 12 бит         |             |                                              |       |
-| 4   | I2C АЦП 12 бит         |             |                                              |       |
-| 5   | Транзистор             |             |                                              |       |
+| №   | Тип                | PN             | Ссылка                                                               | Заказ |
+| --- | ------------------ | -------------- | -------------------------------------------------------------------- | ----- |
+| 1   | Компаратор, SOT-23 | LMC7211BIM5    | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
+| 2   | Аудио усилитель    | LM386MX-1/NOPB | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
+| 3   | Транслятор уровней | LSF0102DCUR    | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
+| 4   | I2C ЦАП 12 бит     |                |                                                                      |       |
+| 5   | I2C АЦП 12 бит     |                |                                                                      |       |
+| 6   | Транзистор         | IRLML2502TRPBF | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
+ЦАП: AD5321BRMZ
 ### Датчики
 
 | №   | Тип             | PN              | Ссылка                                                                                               | Заказ |
@@ -179,6 +182,9 @@
 | 1   | Фото-транзистор | IN-S126BTNPT    | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Detector_PT/IN-S126BTNPT_V1.0.pdf)            | 100   |
 | 2   | Фото-резистор   | IN-S32GTLS      | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Ambient%20Light%20Sensor/IN-S32GTLS_V1.0.pdf) | 100   |
 | 3   | Термо-резистор  | B57620C5103J062 | [link](https://www.tdk-electronics.tdk.com/inf/50/db/ntc/NTC_SMD_Standard_series_0805.pdf)           | 100   |
+Аналоговые микрофоны:
+- https://invensense.tdk.com/wp-content/uploads/2020/05/DS-000281-ICS-40638-v1.1.pdf
+- https://invensense.tdk.com/wp-content/uploads/2016/02/DS-000044-ICS-40618-v1.0.pdf
 ### Механика
 
 | №   | Тип                                | PN                | Ссылка                                                       | Заказ |
