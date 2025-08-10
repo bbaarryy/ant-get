@@ -1,6 +1,6 @@
 ---
 автор: Иван Юрьевич Потылицын
-дата: 8 августа 2025
+дата: 10 августа 2025
 ---
 
 > [!ERROR] Важно!
@@ -166,15 +166,14 @@
 | 8   | Инструмент для извлечения  | 11030043  | [link](https://www.molex.com/en-us/products/part-detail/11030043)  | 5     |
 ### Микросхемы
 
-| №   | Тип                | PN             | Ссылка                                                               | Заказ |
-| --- | ------------------ | -------------- | -------------------------------------------------------------------- | ----- |
-| 1   | Компаратор, SOT-23 | LMC7211BIM5    | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
-| 2   | Аудио усилитель    | LM386MX-1/NOPB | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
-| 3   | Транслятор уровней | LSF0102DCUR    | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
-| 4   | I2C ЦАП 12 бит     |                |                                                                      |       |
-| 5   | I2C АЦП 12 бит     |                |                                                                      |       |
-| 6   | Транзистор         | IRLML2502TRPBF | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
-ЦАП: AD5321BRMZ
+| №   | Тип                | PN              | Ссылка                                                               | Заказ |
+| --- | ------------------ | --------------- | -------------------------------------------------------------------- | ----- |
+| 1   | Компаратор, SOT-23 | LMC7211BIM5     | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
+| 2   | Аудио усилитель    | LM386MX-1/NOPB  | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
+| 3   | Транслятор уровней | LSF0102DCUR     | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
+| 4   | I2C ЦАП 12 бит     | MCP4725A0T-E/CH | [link](https://www.microchip.com/en-us/product/MCP4725)              | 100   |
+| 5   | I2C АЦП 12 бит     | MCP3221A1T-E/OT | [link](https://www.microchip.com/en-us/product/MCP3221)              | 100   |
+| 6   | Транзистор         | IRLML2502TRPBF  | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
 ### Датчики
 
 | №   | Тип             | PN              | Ссылка                                                                                               | Заказ |
@@ -182,9 +181,6 @@
 | 1   | Фото-транзистор | IN-S126BTNPT    | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Detector_PT/IN-S126BTNPT_V1.0.pdf)            | 100   |
 | 2   | Фото-резистор   | IN-S32GTLS      | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Ambient%20Light%20Sensor/IN-S32GTLS_V1.0.pdf) | 100   |
 | 3   | Термо-резистор  | B57620C5103J062 | [link](https://www.tdk-electronics.tdk.com/inf/50/db/ntc/NTC_SMD_Standard_series_0805.pdf)           | 100   |
-Аналоговые микрофоны:
-- https://invensense.tdk.com/wp-content/uploads/2020/05/DS-000281-ICS-40638-v1.1.pdf
-- https://invensense.tdk.com/wp-content/uploads/2016/02/DS-000044-ICS-40618-v1.0.pdf
 ### Механика
 
 | №   | Тип                                | PN                | Ссылка                                                       | Заказ |
@@ -192,3 +188,11 @@
 | 1   | Розетка на плату 2х20, шаг 2.54 мм | DS1023-2x20S21    | [link](https://en.connfly.com/list_120/227.html)             | 500   |
 | 2   | Кнопка                             | FSMSM             | [link](https://www.te.com/en/product-1437566-3.html)         | 500   |
 | 3   | Потенциометр                       | PTV09A-4020F-B104 | [link](https://bourns.com/docs/product-datasheets/PTV09.pdf) | 100   |
+
+### Невошедшие компоненты
+
+ЦАП: AD5321BRMZ (питание 5.0 В подойдёт для 3.3 В логики)
+
+Аналоговые микрофоны:
+- https://invensense.tdk.com/wp-content/uploads/2020/05/DS-000281-ICS-40638-v1.1.pdf
+- https://invensense.tdk.com/wp-content/uploads/2016/02/DS-000044-ICS-40618-v1.0.pdf
