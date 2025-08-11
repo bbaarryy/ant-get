@@ -166,14 +166,18 @@
 | 8   | Инструмент для извлечения  | 11030043  | [link](https://www.molex.com/en-us/products/part-detail/11030043)  | 5     |
 ### Микросхемы
 
-| №   | Тип                | PN              | Ссылка                                                               | Заказ |
-| --- | ------------------ | --------------- | -------------------------------------------------------------------- | ----- |
-| 1   | Компаратор, SOT-23 | LMC7211BIM5     | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
-| 2   | Аудио усилитель    | LM386MX-1/NOPB  | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
-| 3   | Транслятор уровней | LSF0102DCUR     | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
-| 4   | I2C ЦАП 12 бит     | MCP4725A0T-E/CH | [link](https://www.microchip.com/en-us/product/MCP4725)              | 100   |
-| 5   | I2C АЦП 12 бит     | MCP3221A1T-E/OT | [link](https://www.microchip.com/en-us/product/MCP3221)              | 100   |
-| 6   | Транзистор         | IRLML2502TRPBF  | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
+| №   | Тип                        | PN              | Ссылка                                                               | Заказ |
+| --- | -------------------------- | --------------- | -------------------------------------------------------------------- | ----- |
+| 1   | Компаратор, SOT-23         | LMC7211BIM5     | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
+| 2   | ~~Операционный усилитель~~ | OPA1677DBVR     | [link](https://www.ti.com/product/OPA1677/part-details/OPA1677DBVR)  | 300   |
+| 3   | Аудио усилитель            | LM386MX-1/NOPB  | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
+| 4   | Транслятор уровней         | LSF0102DCUR     | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
+| 5   | I2C ЦАП 12 бит             | MCP4725A0T-E/CH | [link](https://www.microchip.com/en-us/product/MCP4725)              | 100   |
+| 6   | I2C АЦП 12 бит             | MCP3221A1T-E/OT | [link](https://www.microchip.com/en-us/product/MCP3221)              | 100   |
+| 7   | Транзистор (устарел)       | IRLML2502TRPBF  | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
+| 8   | Транзистор к ОУ            | BCP56-16        |                                                                      |       |
+| 9   | Для питания                | IRLML2502       |                                                                      |       |
+| 10  | Для питания                | IRLML6402       |                                                                      |       |
 ### Датчики
 
 | №   | Тип             | PN              | Ссылка                                                                                               | Заказ |
