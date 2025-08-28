@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("задание")
+    order:
+      - file.name
+      - тема
+    sort:
+      - property: тема
+        direction: ASC
+    columnSize:
+      file.name: 419
