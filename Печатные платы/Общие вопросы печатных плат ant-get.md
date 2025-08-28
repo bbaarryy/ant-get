@@ -112,8 +112,8 @@
 | №   | Тип                     | PN            | Ссылка                                               | Заказ |
 | --- | ----------------------- | ------------- | ---------------------------------------------------- | ----- |
 | 1   | Красный светодиод, 0805 | FYLS-0805PURC | [link](https://www.foryard.com/product/99.html) (11) | 500   |
-| 2   | Зелёный светодиод, 0805 | FYLS-0805PGC  | [link](https://www.foryard.com/product/99.html) (11) | 500   |
-| 3   | Синий светодиод, 0805   | FYLS-0805UBC  | [link](https://www.foryard.com/product/99.html) (11) | 3000  |
+| 2   | Зелёный светодиод, 0805 | FYLS-0805PGC  | [link](https://www.foryard.com/product/99.html) (11) | 3000  |
+| 3   | Синий светодиод, 0805   | FYLS-0805UBC  | [link](https://www.foryard.com/product/99.html) (11) | 1000  |
 
 ### Резисторы 0402
 
@@ -147,7 +147,6 @@
 | №   | Тип                                    | PN               | Ссылка                                           | Заказ |
 | --- | -------------------------------------- | ---------------- | ------------------------------------------------ | ----- |
 | 1   | Прямая вилка на плату 2х1, шаг 2.54 мм | DS1021-2x1SF11-B | [link](https://en.connfly.com/list_105/182.html) | 100   |
-| 2   | Прямая вилка на плату 2х2, шаг 2.54 мм | DS1021-2x2SF11-B | [link](https://en.connfly.com/list_105/182.html) | 100   |
 | 3   | Прямая вилка на плату 2х4, шаг 2.54 мм | DS1021-2x4SF11-B | [link](https://en.connfly.com/list_105/182.html) | 100   |
 | 4   | Чёрный джампер, шаг 2.54 мм            | DS1027-2LBF1     | [link](https://en.connfly.com/list_120/354.html) | 100   |
 | 5   | Красный джампер, шаг 2.54 мм           | DS1027-2LRF1     | [link](https://en.connfly.com/list_120/354.html) | 100   |
@@ -162,29 +161,8 @@
 | 4   | Разъём на кабель 1х3       | 436450300 | [link](https://www.molex.com/en-us/products/part-detail/436450300) | 1000  |
 | 5   | Обжимная клемма на кабель  | 430300007 | [link](https://www.molex.com/en-us/products/part-detail/430300007) | 10000 |
 | 6   | Ручной обжимной инструмент | 638190000 | [link](https://www.molex.com/en-us/products/part-detail/638190000) | 1     |
-| 7   | Инструмент для вставки     | 638120800 | [link](https://www.molex.com/en-us/products/part-detail/638120800) | 5     |
 | 8   | Инструмент для извлечения  | 11030043  | [link](https://www.molex.com/en-us/products/part-detail/11030043)  | 5     |
-### Микросхемы
-
-| №   | Тип                        | PN              | Ссылка                                                               | Заказ |
-| --- | -------------------------- | --------------- | -------------------------------------------------------------------- | ----- |
-| 1   | Компаратор, SOT-23         | LMC7211BIM5     | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
-| 2   | ~~Операционный усилитель~~ | OPA1677DBVR     | [link](https://www.ti.com/product/OPA1677/part-details/OPA1677DBVR)  | 300   |
-| 3   | Аудио усилитель            | LM386MX-1/NOPB  | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
-| 4   | Транслятор уровней         | LSF0102DCUR     | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
-| 5   | I2C ЦАП 12 бит             | MCP4725A0T-E/CH | [link](https://www.microchip.com/en-us/product/MCP4725)              | 100   |
-| 6   | I2C АЦП 12 бит             | MCP3221A1T-E/OT | [link](https://www.microchip.com/en-us/product/MCP3221)              | 100   |
-| 7   | Транзистор (устарел)       | IRLML2502TRPBF  | [link](https://www.infineon.com/part/IRLML2502)                      | 100   |
-| 8   | Транзистор к ОУ            | BCP56-16        |                                                                      |       |
-| 9   | Для питания                | IRLML2502       |                                                                      |       |
-| 10  | Для питания                | IRLML6402       |                                                                      |       |
-### Датчики
-
-| №   | Тип             | PN              | Ссылка                                                                                               | Заказ |
-| --- | --------------- | --------------- | ---------------------------------------------------------------------------------------------------- | ----- |
-| 1   | Фото-транзистор | IN-S126BTNPT    | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Detector_PT/IN-S126BTNPT_V1.0.pdf)            | 100   |
-| 2   | Фото-резистор   | IN-S32GTLS      | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Ambient%20Light%20Sensor/IN-S32GTLS_V1.0.pdf) | 100   |
-| 3   | Термо-резистор  | B57620C5103J062 | [link](https://www.tdk-electronics.tdk.com/inf/50/db/ntc/NTC_SMD_Standard_series_0805.pdf)           | 100   |
+| 7   | Инструмент для вставки     | 638120800 | [link](https://www.molex.com/en-us/products/part-detail/638120800) | 5     |
 ### Механика
 
 | №   | Тип                                | PN                | Ссылка                                                       | Заказ |
@@ -192,7 +170,26 @@
 | 1   | Розетка на плату 2х20, шаг 2.54 мм | DS1023-2x20S21    | [link](https://en.connfly.com/list_120/227.html)             | 500   |
 | 2   | Кнопка                             | FSMSM             | [link](https://www.te.com/en/product-1437566-3.html)         | 500   |
 | 3   | Потенциометр                       | PTV09A-4020F-B104 | [link](https://bourns.com/docs/product-datasheets/PTV09.pdf) | 100   |
+### Датчики
 
+| №   | Тип            | PN              | Ссылка                                                                                               | Заказ |
+| --- | -------------- | --------------- | ---------------------------------------------------------------------------------------------------- | ----- |
+| 1   | Фототранзистор | IN-S126BTNPT    | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Detector_PT/IN-S126BTNPT_V1.0.pdf)            | 100   |
+| 2   | Фоторезистор   | IN-S32GTLS      | [link](https://www.inolux-corp.com/datasheet/IR/Sensor/Ambient%20Light%20Sensor/IN-S32GTLS_V1.0.pdf) | 100   |
+| 3   | Терморезистор  | B57620C5103J062 | [link](https://www.tdk-electronics.tdk.com/inf/50/db/ntc/NTC_SMD_Standard_series_0805.pdf)           | 100   |
+### Микросхемы
+
+| №   | Тип                        | PN              | Ссылка                                                               | Заказ |
+| --- | -------------------------- | --------------- | -------------------------------------------------------------------- | ----- |
+| 1   | Компаратор, SOT-23         | LMC7211BIM5     | [link](https://www.ti.com/product/LMC7211-N)                         | 200   |
+| 2   | ~~Операционный усилитель~~ | OPA1677DBVR     | [link](https://www.ti.com/product/OPA1677/part-details/OPA1677DBVR)  | 300   |
+| 8   | Транзистор к ОУ            | BCP56-16        |                                                                      |       |
+| 3   | Аудио усилитель            | LM386MX-1/NOPB  | [link](https://www.ti.com/product/LM386/part-details/LM386MX-1/NOPB) | 300   |
+| 4   | Транслятор уровней         | LSF0102DCUR     | [link](https://www.ti.com/product/LSF0102/part-details/LSF0102DCUR)  | 300   |
+| 5   | I2C ЦАП 12 бит             | MCP4725A0T-E/CH | [link](https://www.microchip.com/en-us/product/MCP4725)              | 100   |
+| 6   | I2C АЦП 12 бит             | MCP3221A1T-E/OT | [link](https://www.microchip.com/en-us/product/MCP3221)              | 100   |
+| 9   | Для питания                | IRLML2502       |                                                                      |       |
+| 10  | Для питания                | IRLML6402       |                                                                      |       |
 ### Невошедшие компоненты
 
 ЦАП: AD5321BRMZ (питание 5.0 В подойдёт для 3.3 В логики)
