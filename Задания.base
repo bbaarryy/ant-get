@@ -7,8 +7,9 @@ views:
     order:
       - file.name
       - тема
-    sort:
-      - property: тема
-        direction: ASC
+      - дата
+      - задание
+    sort: []
     columnSize:
       file.name: 419
+      note.тема: 317
