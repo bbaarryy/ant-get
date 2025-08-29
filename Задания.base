@@ -1,3 +1,6 @@
+properties:
+  file.name:
+    displayName: задание
 views:
   - type: table
     name: Table
@@ -9,7 +12,9 @@ views:
       - тема
       - дата
       - задание
-    sort: []
+    sort:
+      - property: тема
+        direction: ASC
     columnSize:
       file.name: 419
       note.тема: 317
