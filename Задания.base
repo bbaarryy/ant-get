@@ -14,7 +14,8 @@ views:
       - задание
     sort:
       - property: тема
-        direction: ASC
+        direction: DESC
     columnSize:
-      file.name: 419
-      note.тема: 317
+      file.name: 361
+      note.тема: 262
+      note.дата: 139
